@@ -824,7 +824,7 @@ ORDER BY
 
 Outcome:
 
-![plant_highest_maintenance_cost](Resource\high_maintenance_cost_plant.png)
+![Preview](https://github.com/josephegbaiyelo5-lab/SQLPortfolio/blob/main/Resource/high_maintenance_cost_plant.png?raw=true)
 
 Findings:
 Within each region, the following plants are ranked first with high maintenance cost : 

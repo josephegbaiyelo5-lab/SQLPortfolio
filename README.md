@@ -592,7 +592,7 @@ ORDER BY ve.total_po_value DESC, ve.late_delivery_percentage DESC;
 
 Outcome:
 
-![Greatest_commercial_exposure](Resource\Greatest_commercial_exposure.png)
+![Preview](https://github.com/josephegbaiyelo5-lab/SQLPortfolio/blob/main/Resource/Greatest_commercial_exposure.png?raw=true)
 
 Findings:
 Supplier 230 represents £224440.4 purchase order value and £397724.59 maintenance spend while recording 74% late delivery rate and average quality performance.

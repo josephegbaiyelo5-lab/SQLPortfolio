@@ -1,0 +1,6 @@
+"maintenance_type","description","total_actual","total_budget","exceed_amount","exceed_percentage"
+"Corrective","Waste disposal","2042310.98","1486960.42","555350.56","37.35"
+"Preventive","Waste disposal","1623120.99","1242719.17","380401.82","30.61"
+"Predictive","Waste disposal","749234.76","571905.77","177328.99","31.01"
+"Inspection","Waste disposal","494699.79","420209.76","74490.03","17.73"
+"Emergency","Waste disposal","412356.57","380587.07","31769.50","8.35"

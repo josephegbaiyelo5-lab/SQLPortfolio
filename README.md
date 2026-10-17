@@ -691,7 +691,7 @@ ORDER BY reorder_needed DESC;
 
 Outcome:
 
-![immediate_reorder](Resource\inventory_immediate_reorder.png)
+![Preview](https://github.com/josephegbaiyelo5-lab/SQLPortfolio/blob/main/Resource/inventory_immediate_reorder.png?raw=true)
 
 Findings:
 Inventories INV102687, INV104666, INV102793 and so on.

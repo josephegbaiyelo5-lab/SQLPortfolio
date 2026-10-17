@@ -518,7 +518,7 @@ LIMIT 5;
 ```
 Outcome:
 
-![Top_5_root_cause](Resource\Top_5-root_cause.png)
+![Preview](https://github.com/josephegbaiyelo5-lab/SQLPortfolio/blob/main/Resource/Top_5-root_cause.png?raw=true)
 
 Findings:
 Top 5 root causes as a result of downtime are wear, unknown, electrical fault, corrosion and blocked line with downtime of 16% down to 12% respectively.

@@ -437,7 +437,9 @@ Outcome:
 
 ![Preview](https://github.com/josephegbaiyelo5-lab/SQLPortfolio/blob/main/Resource/Business-ans_Asset.png?raw=true)
 
-![downtime_failure](Resource\Downtime_Failure.png)
+
+
+![Preview](https://github.com/josephegbaiyelo5-lab/SQLPortfolio/blob/main/Resource/Average%20Downtime%20vs%20Average%20Failure.png?raw=true)
 I generated this chart in Excel.
 
 Findings:

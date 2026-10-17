@@ -1012,7 +1012,7 @@ ORDER BY scada_good_quality_percentage DESC;
 
 Outcome:
 
-![SCADA_readings](Resource\SCADA_reading.png)
+![Preview](https://github.com/josephegbaiyelo5-lab/SQLPortfolio/blob/main/Resource/SCADA_reading.png?raw=true)
 
 Findings:
 Plants PLT1000, PLT1024, PLT1019, PLT1011, PLT1008, PLT1027, PLT1033 and PLT1004 have at least 66% SCADA good quality rating.

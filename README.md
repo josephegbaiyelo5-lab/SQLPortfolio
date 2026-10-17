@@ -99,7 +99,7 @@ SELECT
 ```
 Outcome:
 
-![Row_Checks](Resource\Row_Count.png)
+![Preview](https://github.com/josephegbaiyelo5-lab/SQLPortfolio/blob/main/Resource/Row_Count.png?raw=true)
 
 Results: All expected tables are populated.
 

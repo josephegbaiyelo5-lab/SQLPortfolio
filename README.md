@@ -306,6 +306,7 @@ WHERE asset_id IS NULL
     OR description IS NULL;
 ```
 Outcome:
+
 ![Preview](https://github.com/josephegbaiyelo5-lab/SQLPortfolio/blob/main/Resource/NULL_Checks.png?raw=true)
 
 Result: No record of NULL value in each table.
@@ -402,7 +403,8 @@ LEFT JOIN work_orders AS w ON ft.work_order_id = w.work_order_id
 WHERE w.work_order_id IS NULL;
 ```
 Outcome:
-![Relationship_Checks](Resource\Relationship_Check.png)
+
+![Preview](https://github.com/josephegbaiyelo5-lab/SQLPortfolio/blob/main/Resource/Relationship_Check.png?raw=true)
 
 Result: No orphaned relationship identified
 

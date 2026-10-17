@@ -1046,7 +1046,7 @@ LIMIT 20;
 
 Outcome:
 
-![vendor_poor_delivery](Resource\Business_ans_vendor.png)
+![Preview](https://github.com/josephegbaiyelo5-lab/SQLPortfolio/blob/main/Resource/Business_ans_vendor.png?raw=true)
 
 Findings:
 - Vendor V10234 has 85% late delivery, 35 average delay days and 80 maximum delay days

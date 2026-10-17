@@ -664,7 +664,7 @@ ORDER BY failure_rate_percent DESC;
 
 Outcome:
 
-![highest_regulatory_inspections_failed](Resource\high_regulatory_inspection_failed.png)
+![Preview](https://github.com/josephegbaiyelo5-lab/SQLPortfolio/blob/main/Resource/high_regulatory_inspection_failed.png?raw=true)
 
 Findings:
 Plant PLT1016 has the highest regulatory inspection failure of 20%.

@@ -894,7 +894,8 @@ ORDER BY preventive_percentage DESC;
 ```
 
 Outcome:
-![preventive_maintenance_failure](Resource\preventive_maintenance_failure.png)
+
+![Preview](https://github.com/josephegbaiyelo5-lab/SQLPortfolio/blob/main/Resource/preventive_maintenance_failure.png?raw=true)
 
 Findings:
 Assets receiving more preventive maintenance still experience high failure. For example: Asset A100346 received 20 preventive maintenance work with 34 failures, Asset A100826 received 21 preventive maintenance work with 36 failures.

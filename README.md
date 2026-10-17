@@ -306,7 +306,7 @@ WHERE asset_id IS NULL
     OR description IS NULL;
 ```
 Outcome:
-![NULL_Checks](Resource\NULL_Checks.png)
+![Preview](https://github.com/josephegbaiyelo5-lab/SQLPortfolio/blob/main/Resource/NULL_Checks.png?raw=true)
 
 Result: No record of NULL value in each table.
 

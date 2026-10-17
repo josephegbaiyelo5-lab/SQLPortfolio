@@ -161,7 +161,8 @@ GROUP BY transaction_id
 HAVING COUNT(*) > 1;
 ```
 Outcome:
-![Duplicate_Checks](Resource\Duplicate_Checks.png)
+
+![Preview](https://github.com/josephegbaiyelo5-lab/SQLPortfolio/blob/main/Resource/Duplicate_Checks.png?raw=true)
 
 Result: No record of duplicates for primary keys.
 

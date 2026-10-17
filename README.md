@@ -616,7 +616,7 @@ ORDER BY high_risk_findings DESC;
 
 Outcome:
 
-![highest_regulatory_risk](Resource\high_regulatory_risk.png)
+![Preview](https://github.com/josephegbaiyelo5-lab/SQLPortfolio/blob/main/Resource/high_regulatory_risk.png?raw=true)
 
 Findings:
 Plants PLT1000, PLT1002, PLT1016, PLT1020 and PLT1034 have the highest regulatory risk.

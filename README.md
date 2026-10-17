@@ -956,7 +956,8 @@ ORDER BY avg_failure_Percentage;
 ```
 
 Outcome:
-![high_preventive_maintenance_coverage](Resource\high_preventive-maintenace_coverage.png)
+
+![Preview](https://github.com/josephegbaiyelo5-lab/SQLPortfolio/blob/main/Resource/high_preventive-maintenace_coverage.png?raw=true)
 
 Findings:
 Eventhough there are no high preventive maintenance coverage, both medium and low preventive group exceeds 90% average failure rate.

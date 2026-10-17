@@ -766,7 +766,7 @@ ORDER BY total_shortage DESC;
 
 Outcome:
 
-![highest_inventory_shortage](Resource\highest-inventory_shortage.png)
+![Preview](https://github.com/josephegbaiyelo5-lab/SQLPortfolio/blob/main/Resource/highest-inventory_shortage.png?raw=true)
 
 Findings:
 Plants PLT1019, PLT1001, PLT1002, PLT1011, PLT1034 and so on have the highest inventory shortages.

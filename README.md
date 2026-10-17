@@ -543,7 +543,7 @@ ORDER BY total_downtime DESC;
 
 Outcome:
 
-![Calibration_drift_ELEC_failure](Resource\Calibration_drift_ELEC.png)
+![Preview](https://github.com/josephegbaiyelo5-lab/SQLPortfolio/blob/main/Resource/Calibration_drift_ELEC.png?raw=true)
 
 Findings:
 

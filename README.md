@@ -496,7 +496,7 @@ LIMIT 5;
 ```
 Outcome:
 
-![Top_5_failure_mechanism](Resource\Top_5-failure_mechanism.png)
+![Preview](https://github.com/josephegbaiyelo5-lab/SQLPortfolio/blob/main/Resource/Top_5-failure_mechanism.png?raw=true)
 
 Findings:
 Top 5 failure mechanisms as a result of downtime are mechanical, none, electrical, instrument and process with downtime of 24% down to 12% respectively.

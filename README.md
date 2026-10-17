@@ -474,7 +474,7 @@ ORDER BY exceed_amount DESC;
 ```
 Outcome:
 
-![waste_disposal](Resource\Business_ans_budget.png)
+![Preview](https://github.com/josephegbaiyelo5-lab/SQLPortfolio/blob/main/Resource/Business_ans_budget.png?raw=true)
 
 Findings:
 Three of the maintenance types waste disposal exceeded budget by at least 30%.

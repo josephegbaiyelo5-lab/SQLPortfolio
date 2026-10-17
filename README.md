@@ -788,7 +788,7 @@ ORDER BY financial_exposure DESC;
 
 Outcome:
 
-![inventory_highest-financial_exposure](Resource\inventory_high_financial_exposure.png)
+![Preview](https://github.com/josephegbaiyelo5-lab/SQLPortfolio/blob/main/Resource/inventory_high_financial_exposure.png?raw=true)
 
 Findings:
 Inventory INV107008 represents £27989.28 financial exposure.

@@ -1072,7 +1072,7 @@ ORDER BY mtbf_hours ASC;
 
 Outcome:
 
-![assest_poor_reliability](Resource\Business_ans_workorder.png)
+![Preview](https://github.com/josephegbaiyelo5-lab/SQLPortfolio/blob/main/Resource/Business_ans_workorder.png?raw=true)
 
 Findings:
 Asset A100507 is the least reliable with mean time between failures of 141.29 hours.

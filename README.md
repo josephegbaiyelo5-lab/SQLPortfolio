@@ -979,7 +979,7 @@ GROUP BY asset_id, source, quality_flag;
 
 Outcome:
 
-![historian_source_reading](Resource\historian_reading.png)
+![Preview](https://github.com/josephegbaiyelo5-lab/SQLPortfolio/blob/main/Resource/historian_reading.png?raw=true)
 
 Findings:
 Assets A100404, A100690, A101797, A100689 and so on historian sources readings are suspicious.

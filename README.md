@@ -744,7 +744,8 @@ reorder_point,
 ```
 
 Outcome:
-![below-reorder_point](Resource\Below_reorder_point.png)
+
+![Preview](https://github.com/josephegbaiyelo5-lab/SQLPortfolio/blob/main/Resource/Below_reorder_point.png?raw=true)
 
 Findings:
 Parts PN-79730, PN-10105, PN-81925, PN-14734, PN-57114 and so on are below reorder point.

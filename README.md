@@ -859,7 +859,7 @@ ORDER BY month;
 
 Outcome:
 
-![monthly_maintenance_expenditure](Resource\monthly_maintenance_expenditure.png)
+![Preview](https://github.com/josephegbaiyelo5-lab/SQLPortfolio/blob/main/Resource/monthly_maintenance_expenditure.png?raw=true)
 
 Findings:
 Months of February, May, August, October of 2022 shows an increase in monthly expenditure compared to previous month with at least 4%.

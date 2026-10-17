@@ -434,7 +434,8 @@ HAVING asset_criticality ='Critical'
 ORDER BY avg_failures DESC, avg_downtime DESC;
 ```
 Outcome:
-![poorest_reliability](Resource\Business-ans_Asset.png)
+
+![Preview](https://github.com/josephegbaiyelo5-lab/SQLPortfolio/blob/main/Resource/Business-ans_Asset.png?raw=true)
 
 ![downtime_failure](Resource\Downtime_Failure.png)
 I generated this chart in Excel.

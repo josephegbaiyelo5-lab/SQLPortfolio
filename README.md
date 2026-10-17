@@ -717,7 +717,7 @@ ORDER BY replenishment_percentage DESC;
 
 Outcome:
 
-![inventory_replenishment](Resource\inventory_replenishment.png)
+![Preview](https://github.com/josephegbaiyelo5-lab/SQLPortfolio/blob/main/Resource/inventory_replenishment.png?raw=true)
 
 Findings:
 Inventories INV102687, INV104666, INV102793 and so on have replenishment of 100%.
